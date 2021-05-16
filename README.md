@@ -1,2 +1,1 @@
-# tinDog
-First landing page project using HTML,CSS and Bootstrap 4
+TinDog Starting Files
